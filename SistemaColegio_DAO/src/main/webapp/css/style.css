@@ -1,0 +1,13 @@
+.bgFondo{
+    /*background-color: #fdeae2;*/
+    background: linear-gradient(
+        to bottom right,
+        #FF6c87, 
+        #FC7246
+    );;
+
+}
+
+.text-primary{
+	font-weight: bold;
+}

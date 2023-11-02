@@ -1,0 +1,9 @@
+/home/centro8/Documentos/Aplicaciones Web/Clase09/src/main/java/ar/org/centro8/curso/especialidad/aplicaciones/web/enums/Turno.java
+/home/centro8/Documentos/Aplicaciones Web/Clase09/src/main/java/ar/org/centro8/curso/especialidad/aplicaciones/web/test/TestCursoRepository.java
+/home/centro8/Documentos/Aplicaciones Web/Clase09/src/main/java/ar/org/centro8/curso/especialidad/aplicaciones/web/JspApplication.java
+/home/centro8/Documentos/Aplicaciones Web/Clase09/src/main/java/ar/org/centro8/curso/especialidad/aplicaciones/web/entities/Curso.java
+/home/centro8/Documentos/Aplicaciones Web/Clase09/src/main/java/ar/org/centro8/curso/especialidad/aplicaciones/web/enums/Dia.java
+/home/centro8/Documentos/Aplicaciones Web/Clase09/src/main/java/ar/org/centro8/curso/especialidad/aplicaciones/web/connectors/Connector.java
+/home/centro8/Documentos/Aplicaciones Web/Clase09/src/main/java/ar/org/centro8/curso/especialidad/aplicaciones/web/test/TestConnector.java
+/home/centro8/Documentos/Aplicaciones Web/Clase09/src/main/java/ar/org/centro8/curso/especialidad/aplicaciones/web/repositories/jdbc/CursoRepository.java
+/home/centro8/Documentos/Aplicaciones Web/Clase09/src/main/java/ar/org/centro8/curso/especialidad/aplicaciones/web/repositories/interfaces/I_CursoRepository.java
